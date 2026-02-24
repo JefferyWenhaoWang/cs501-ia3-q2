@@ -12,7 +12,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             CS501_IA1Theme {
-                Q4ResponsiveScreen()
+                Q2ProfileScreen()
             }
         }
     }
